@@ -1,0 +1,27 @@
+{
+  "name": "pubg-match-stats",
+  "version": "0.0.0",
+  "description": "A Discord bot that fetches PUBG stats",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PUBG",
+    "Discord",
+    "Player",
+    "Unknown",
+    "Battleground",
+    "Bot",
+    "Stats"
+  ],
+  "author": "Max Fontana",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "pubg.js": "^3.9.0"
+  }
+}
